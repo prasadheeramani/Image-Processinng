@@ -1,0 +1,4 @@
+sudo apt install python3-pip
+pip3 install opencv-contrib-python
+sudo apt install jupyter-core
+jupyter notebook
